@@ -44,5 +44,14 @@
 
 ## Images
 
+![alt text](https://raw.githubusercontent.com/bmrz2019/latitude_3190/main/inside.jpg "01")
+
+![alt text](https://raw.githubusercontent.com/bmrz2019/latitude_3190/main/back.jpg "01")
+
+![alt text](https://raw.githubusercontent.com/bmrz2019/latitude_3190/main/battery.jpg "01")
+
+![alt text](https://raw.githubusercontent.com/bmrz2019/latitude_3190/main/nvme.jpg "01")
+
+![alt text](https://raw.githubusercontent.com/bmrz2019/latitude_3190/main/usb.jpg "01")
 
 
