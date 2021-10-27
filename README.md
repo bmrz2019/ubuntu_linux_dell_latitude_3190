@@ -1,4 +1,4 @@
-# latitude_3190
+# Dell latitude 3190 Ubuntu
 
 
 - screen size 11" 
