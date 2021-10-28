@@ -17,7 +17,7 @@
 - Webcam
 - hibernate
 - WiFi
-- HDMI
+- HDMI (even 4K works fine - without stuttering)
 
 ### Not good
 
